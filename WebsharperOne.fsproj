@@ -8,7 +8,7 @@
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
 	<InvariantGlobalization>true</InvariantGlobalization>
-	<FSharpPreferNetFrameworkTools>False</FSharpPreferNetFrameworkTools>
+	<FSharpPreferNetFrameworkTools>True</FSharpPreferNetFrameworkTools>
 	<FSharpPrefer64BitTools>True</FSharpPrefer64BitTools>
   </PropertyGroup>
 
